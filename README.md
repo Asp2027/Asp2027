@@ -1,4 +1,4 @@
-# 🚀 DevOps & MLOps Portfolio by ByOne
+# 🚀 DevOps & MLOps Portfolio by AHMED OUAHOU
 
 Welcome to my DevOps and MLOps portfolio! This repository showcases real-world projects that combine automation, infrastructure as code, cloud-native deployments, and ML model operationalization using modern tools like Docker, Terraform, Django, FastAPI, n8n, and more.
 
